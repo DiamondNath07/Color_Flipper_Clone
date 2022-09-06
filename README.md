@@ -16,4 +16,4 @@ It can also identify the color code of the background color at a single click on
 - For the hex colors, Hit the hex icon and click your button
 
 ### Reference 
-(www.johnsmiga.com)
+(www.johnsmilga.com)
