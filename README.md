@@ -1,13 +1,13 @@
 ### Color_Flipper_Clone
 
--[] Interactive Color Flipper App
+- Interactive Color Flipper App
 
-\*\*\*\* Description
+### Description
 This app is built using html, css and javascript. It is capable of displaying random colors starting from simple colors to more complex colors which are displayed in the two different pages on the nav bar.
 
 It can also identify the color code of the background color at a single click on the click button.
 
-\*\*\*\* How to use the APP
+### How to use the APP
 
 - Locate the two different pages on the right side of the navbar with the title 'simple' and 'hex'
 
@@ -15,4 +15,5 @@ It can also identify the color code of the background color at a single click on
 
 - For the hex colors, Hit the hex icon and click your button
 
--[] Reference -[](www.johnsmiga.com)
+### Reference 
+(www.johnsmiga.com)
